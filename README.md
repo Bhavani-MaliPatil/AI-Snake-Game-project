@@ -15,7 +15,7 @@ The game ends when the snake is trapped or hits the wall/self.
 ---
 
 ## 📸 Screenshot
-*(Replace with your screenshot)*
+
 ![Snake Game Screenshot](screenshot.png)
 
 ---
